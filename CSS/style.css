@@ -1,0 +1,36 @@
+body {
+    margin : 0px;
+    padding : 30px;
+    background-color: silver;
+    font-family: 'Century Gothic';
+}
+
+header {
+    background-color: black;
+    padding-top : 100px;
+    padding-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size : 45px;
+    color : silver;
+}
+
+img {
+    width: 90%;
+}
+
+.miniature {
+    width : 30px;
+    height : 30px;
+}
+
+#texte {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    padding-top: 50px;
+}
+
+
